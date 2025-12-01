@@ -1,0 +1,10 @@
+Scripts
+
+- 1. Crie o banco de dados
+source scripts/01_database_creation.sql
+
+- 2. Insira os dados
+source scripts/02_insert_data.sql
+
+- 3. Execute as consultas
+source scripts/03_select_queries.sql
