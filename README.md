@@ -59,3 +59,5 @@ git clone https://github.com/LuizFabianoCDL/Sistema-de-Gest-o-Escolar-EduControl
 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+git clone https://github.com/LuizFabianoCDL/EduControl
